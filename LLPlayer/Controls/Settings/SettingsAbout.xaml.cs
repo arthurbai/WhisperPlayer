@@ -2,9 +2,9 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.Extensions;
+using WhisperPlayer.Extensions;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsAbout : UserControl
 {

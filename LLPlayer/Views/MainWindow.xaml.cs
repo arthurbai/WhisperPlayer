@@ -1,10 +1,10 @@
 ﻿using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Interop;
-using LLPlayer.Services;
-using LLPlayer.ViewModels;
+using WhisperPlayer.Services;
+using WhisperPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace WhisperPlayer.Views;
 
 public partial class MainWindow : Window
 {

@@ -8,12 +8,12 @@ using System.Windows.Media;
 using FlyleafLib;
 using FlyleafLib.Controls.WPF;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Views;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Views;
 using WpfColorFontDialog;
 using KeyBinding = FlyleafLib.MediaPlayer.KeyBinding;
 
-namespace LLPlayer.Services;
+namespace WhisperPlayer.Services;
 
 public class AppActions
 {

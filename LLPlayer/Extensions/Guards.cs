@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public static class Guards
 {

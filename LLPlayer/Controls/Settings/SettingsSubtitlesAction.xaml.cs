@@ -3,10 +3,10 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using FlyleafLib.MediaPlayer.Translation.Services;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesAction : UserControl
 {

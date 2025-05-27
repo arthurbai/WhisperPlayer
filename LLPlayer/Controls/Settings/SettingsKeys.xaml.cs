@@ -7,12 +7,12 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Input;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Converters;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Converters;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 using KeyBinding = FlyleafLib.MediaPlayer.KeyBinding;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsKeys : UserControl
 {

@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace LLPlayer.Controls.Settings.TransControl;
+namespace WhisperPlayer.Controls.Settings.TransControl;
 
 public partial class OpenAIBaseTranslateControl : UserControl
 {

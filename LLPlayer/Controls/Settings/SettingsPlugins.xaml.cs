@@ -3,9 +3,9 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
-using LLPlayer.ViewModels;
+using WhisperPlayer.ViewModels;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsPlugins : UserControl
 {

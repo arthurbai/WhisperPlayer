@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Documents;
 using System.Windows.Navigation;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public static class HyperlinkHelper
 {

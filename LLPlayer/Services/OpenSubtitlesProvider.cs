@@ -4,9 +4,9 @@ using System.Net.Http;
 using System.Text;
 using System.Xml.Serialization;
 using FlyleafLib;
-using LLPlayer.Extensions;
+using WhisperPlayer.Extensions;
 
-namespace LLPlayer.Services;
+namespace WhisperPlayer.Services;
 
 public class OpenSubtitlesProvider
 {

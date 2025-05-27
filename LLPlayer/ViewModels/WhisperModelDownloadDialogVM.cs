@@ -3,11 +3,11 @@ using System.Diagnostics;
 using System.IO;
 using System.Windows;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 using Whisper.net.Ggml;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 public class WhisperModelDownloadDialogVM : Bindable, IDialogAware
 {

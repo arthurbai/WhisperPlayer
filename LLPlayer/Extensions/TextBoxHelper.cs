@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 
 // ref: https://stackoverflow.com/a/50905766/9070784

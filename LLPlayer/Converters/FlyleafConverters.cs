@@ -6,7 +6,7 @@ using System.Windows.Media;
 using FlyleafLib;
 using static FlyleafLib.MediaFramework.MediaDemuxer.Demuxer;
 
-namespace LLPlayer.Converters;
+namespace WhisperPlayer.Converters;
 
 [ValueConversion(typeof(int), typeof(Qualities))]
 public class QualityToLevelsConverter : IValueConverter

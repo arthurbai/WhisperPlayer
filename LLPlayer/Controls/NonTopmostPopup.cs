@@ -4,7 +4,7 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Input;
 using System.Windows.Interop;
 
-namespace LLPlayer.Controls;
+namespace WhisperPlayer.Controls;
 
 /// <summary>
 /// Popup with code to not be the topmost control

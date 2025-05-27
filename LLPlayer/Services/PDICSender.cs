@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace LLPlayer.Services;
+namespace WhisperPlayer.Services;
 
 public class PipeClient : IDisposable
 {

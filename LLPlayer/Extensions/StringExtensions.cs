@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public static class StringExtensions
 {

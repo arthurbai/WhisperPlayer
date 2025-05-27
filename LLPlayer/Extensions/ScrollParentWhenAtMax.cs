@@ -4,7 +4,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using Microsoft.Xaml.Behaviors;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 /// <summary>
 /// Behavior to disable scrolling in ListView

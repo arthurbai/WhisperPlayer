@@ -3,7 +3,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Windows.Media;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 // Convert Color object to HEX string
 public class ColorHexJsonConverter : JsonConverter<Color>

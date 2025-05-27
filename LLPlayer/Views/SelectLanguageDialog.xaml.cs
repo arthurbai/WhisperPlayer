@@ -1,9 +1,9 @@
-﻿using LLPlayer.ViewModels;
+﻿using WhisperPlayer.ViewModels;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace LLPlayer.Views;
+namespace WhisperPlayer.Views;
 
 public partial class SelectLanguageDialog : UserControl
 {

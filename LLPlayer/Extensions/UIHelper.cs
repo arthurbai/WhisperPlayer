@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Media;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public static class UIHelper
 {

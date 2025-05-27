@@ -6,19 +6,19 @@ using System.Windows;
 using System.Windows.Threading;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
-using LLPlayer.Views;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
+using WhisperPlayer.Views;
 
-namespace LLPlayer;
+namespace WhisperPlayer;
 
 public partial class App : PrismApplication
 {
-    public static string Name => "LLPlayer";
+    public static string Name => "WhisperPlayer";
     public static string? CmdUrl { get; private set; } = null;
-    public static string PlayerConfigPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LLPlayer.PlayerConfig.json");
-    public static string EngineConfigPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LLPlayer.Engine.json");
-    public static string AppConfigPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LLPlayer.Config.json");
+    public static string PlayerConfigPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "WhisperPlayer.PlayerConfig.json");
+    public static string EngineConfigPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "WhisperPlayer.Engine.json");
+    public static string AppConfigPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "WhisperPlayer.Config.json");
     public static string CrashLogPath { get; } = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "crash.log");
 
     private readonly LogHandler Log;

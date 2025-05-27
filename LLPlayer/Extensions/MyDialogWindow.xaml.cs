@@ -1,7 +1,7 @@
 ﻿using System.Windows;
-using LLPlayer.Views;
+using WhisperPlayer.Views;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public partial class MyDialogWindow : Window, IDialogWindow
 {

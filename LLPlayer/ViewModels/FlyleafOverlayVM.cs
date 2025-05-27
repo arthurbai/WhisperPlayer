@@ -4,12 +4,12 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 using MaterialDesignThemes.Wpf;
 using static FlyleafLib.Utils.NativeMethods;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 public class FlyleafOverlayVM : Bindable
 {

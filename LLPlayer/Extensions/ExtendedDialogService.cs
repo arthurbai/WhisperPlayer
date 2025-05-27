@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 /// <summary>
 /// Customize DialogService's Show(), which sets the Owner of the Window and sets it to always-on-top.

@@ -1,5 +1,5 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:controls="clr-namespace:LLPlayer.Controls"
+                    xmlns:controls="clr-namespace:WhisperPlayer.Controls"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <!-- Do not use materialDesign -->

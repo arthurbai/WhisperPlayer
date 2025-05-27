@@ -9,12 +9,12 @@ using System.Windows.Data;
 using CliWrap.Builders;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
-using LLPlayer.Views;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
+using WhisperPlayer.Views;
 using Whisper.net.LibraryLoader;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesASR : UserControl
 {

@@ -6,10 +6,10 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
 using FlyleafLib;
-using LLPlayer.Extensions;
+using WhisperPlayer.Extensions;
 using NMeCab.Specialized;
 
-namespace LLPlayer.Controls;
+namespace WhisperPlayer.Controls;
 
 public partial class SelectableSubtitleText : UserControl
 {

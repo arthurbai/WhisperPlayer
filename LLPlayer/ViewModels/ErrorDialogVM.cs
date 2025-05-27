@@ -3,10 +3,10 @@ using System.Diagnostics.CodeAnalysis;
 using System.Media;
 using System.Text;
 using System.Windows;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 public class ErrorDialogVM : Bindable, IDialogAware
 {

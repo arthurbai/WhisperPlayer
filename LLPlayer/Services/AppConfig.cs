@@ -9,14 +9,14 @@ using System.Windows.Media;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
 using FlyleafLib.MediaPlayer.Translation.Services;
-using LLPlayer.Extensions;
+using WhisperPlayer.Extensions;
 using MaterialDesignThemes.Wpf;
 using Vortice.Mathematics;
 using Color = System.Windows.Media.Color;
 using Colors = System.Windows.Media.Colors;
 using Size = System.Windows.Size;
 
-namespace LLPlayer.Services;
+namespace WhisperPlayer.Services;
 
 public class AppConfig : Bindable
 {

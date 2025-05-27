@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace LLPlayer.Resources;
+namespace WhisperPlayer.Resources;
 
 public partial class Validators : ResourceDictionary
 {

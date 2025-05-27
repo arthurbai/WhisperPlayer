@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 /// <summary>
 /// JsonConverter to serialize and deserialize interfaces with concrete types using a mapping between interfaces and concrete types

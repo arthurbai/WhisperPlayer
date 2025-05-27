@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsMouse : UserControl
 {

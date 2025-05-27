@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "LLPlayer": {
+    "WhisperPlayer": {
       "commandName": "Project"
     },
-    "LLPlayer native": {
+    "WhisperPlayer native": {
       "commandName": "Project",
       "nativeDebugging": true
     }

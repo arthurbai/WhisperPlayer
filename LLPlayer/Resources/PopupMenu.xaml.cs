@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.ViewModels;
+using WhisperPlayer.ViewModels;
 
-namespace LLPlayer.Resources;
+namespace WhisperPlayer.Resources;
 
 public partial class PopupMenu : ResourceDictionary
 {

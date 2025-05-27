@@ -1,9 +1,9 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.Controls;
-using LLPlayer.ViewModels;
+using WhisperPlayer.Controls;
+using WhisperPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace WhisperPlayer.Views;
 
 public partial class SubtitlesSidebar : UserControl
 {

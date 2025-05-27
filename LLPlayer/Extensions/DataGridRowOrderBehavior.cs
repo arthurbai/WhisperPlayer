@@ -5,7 +5,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using Microsoft.Xaml.Behaviors;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 /// <summary>
 /// Behavior to add the ability to swap rows in a DataGrid by drag and drop

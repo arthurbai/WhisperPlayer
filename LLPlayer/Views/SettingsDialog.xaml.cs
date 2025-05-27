@@ -1,9 +1,9 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.Controls.Settings;
-using LLPlayer.ViewModels;
+using WhisperPlayer.Controls.Settings;
+using WhisperPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace WhisperPlayer.Views;
 
 public partial class SettingsDialog : UserControl
 {

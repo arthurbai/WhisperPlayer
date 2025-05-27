@@ -3,9 +3,9 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Input;
-using LLPlayer.ViewModels;
+using WhisperPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace WhisperPlayer.Views;
 
 public partial class CheatSheetDialog : UserControl
 {

@@ -4,7 +4,7 @@ using FlyleafLib;
 using FlyleafLib.MediaPlayer;
 using FlyleafLib.MediaPlayer.Translation;
 
-namespace LLPlayer.Services;
+namespace WhisperPlayer.Services;
 
 public static class FlyleafLoader
 {

@@ -8,10 +8,10 @@ using System.Windows.Media.Animation;
 using FlyleafLib;
 using FlyleafLib.MediaFramework.MediaDemuxer;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Services;
+using WhisperPlayer.Services;
 using Microsoft.Xaml.Behaviors;
 
-namespace LLPlayer.Controls;
+namespace WhisperPlayer.Controls;
 
 public partial class FlyleafBar : UserControl
 {

@@ -3,9 +3,9 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
-using LLPlayer.Services;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.Converters;
+namespace WhisperPlayer.Converters;
 [ValueConversion(typeof(bool), typeof(bool))]
 public class InvertBooleanConverter : IValueConverter
 {

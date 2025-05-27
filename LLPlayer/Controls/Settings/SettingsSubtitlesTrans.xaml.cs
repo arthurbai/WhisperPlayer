@@ -4,10 +4,10 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using FlyleafLib.MediaPlayer.Translation;
 using FlyleafLib.MediaPlayer.Translation.Services;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesTrans : UserControl
 {
@@ -114,7 +114,7 @@ internal class TranslateServiceTypeEnumToStringConverter : IValueConverter
 [ValueConversion(typeof(TranslateServiceType), typeof(string))]
 internal class TranslateServiceTypeEnumToUrlConverter : IValueConverter
 {
-    private const string BaseUrl = "https://github.com/umlx5h/LLPlayer/wiki/Translation-Engine";
+    private const string BaseUrl = "https://github.com/umlx5h/WhisperPlayer/wiki/Translation-Engine";
     public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
     {
         if (value is TranslateServiceType enumValue)

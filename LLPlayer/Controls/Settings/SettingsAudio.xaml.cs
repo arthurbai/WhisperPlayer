@@ -1,11 +1,11 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
-using LLPlayer.Views;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
+using WhisperPlayer.Views;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 public partial class SettingsAudio : UserControl
 {

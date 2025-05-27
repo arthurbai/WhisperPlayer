@@ -3,9 +3,9 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Media.Imaging;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Services;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.Converters;
+namespace WhisperPlayer.Converters;
 
 public class WidthPercentageMultiConverter : IMultiValueConverter
 {

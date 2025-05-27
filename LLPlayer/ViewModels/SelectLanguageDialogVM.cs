@@ -2,10 +2,10 @@
 using System.ComponentModel;
 using System.Windows.Data;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 public class SelectLanguageDialogVM : Bindable, IDialogAware
 {

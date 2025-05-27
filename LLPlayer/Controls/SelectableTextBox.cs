@@ -3,7 +3,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using FlyleafLib;
 
-namespace LLPlayer.Controls;
+namespace WhisperPlayer.Controls;
 
 public class SelectableTextBox : TextBox
 {

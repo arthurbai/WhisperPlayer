@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.InteropServices;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 // ref: https://stackoverflow.com/questions/44205260/net-core-copy-to-clipboard
 public static class WindowsClipboard

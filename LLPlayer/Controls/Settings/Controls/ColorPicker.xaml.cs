@@ -3,7 +3,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using MaterialDesignThemes.Wpf;
 
-namespace LLPlayer.Controls.Settings.Controls;
+namespace WhisperPlayer.Controls.Settings.Controls;
 
 public partial class ColorPicker : UserControl
 {

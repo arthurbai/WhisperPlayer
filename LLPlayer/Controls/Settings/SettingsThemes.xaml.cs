@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace LLPlayer.Controls.Settings;
+namespace WhisperPlayer.Controls.Settings;
 
 // TODO: L: Allow manual setting of text color
 // TODO: L: Allow setting of background color and video background color

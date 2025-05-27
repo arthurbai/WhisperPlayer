@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public class Bindable : INotifyPropertyChanged
 {

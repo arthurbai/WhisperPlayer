@@ -3,12 +3,12 @@ using System.ComponentModel;
 using System.IO;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 using Microsoft.Win32;
 using static FlyleafLib.MediaFramework.MediaContext.DecoderContext;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 public class SubtitlesDownloaderDialogVM : Bindable, IDialogAware
 {

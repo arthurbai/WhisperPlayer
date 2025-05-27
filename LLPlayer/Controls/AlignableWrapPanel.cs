@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
 
-namespace LLPlayer.Controls;
+namespace WhisperPlayer.Controls;
 
 // The standard WrapPanel does not have a centering function, so add it.
 // ref: https://stackoverflow.com/a/7747002

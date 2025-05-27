@@ -3,10 +3,10 @@ using System.Diagnostics;
 using System.IO;
 using System.Net.Http;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 // TODO: L: consider commonization with WhisperModelDownloadDialogVM
 public class TesseractDownloadDialogVM : Bindable, IDialogAware

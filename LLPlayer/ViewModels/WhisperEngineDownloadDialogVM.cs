@@ -2,12 +2,12 @@
 using System.IO;
 using System.Net.Http;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using WhisperPlayer.Extensions;
+using WhisperPlayer.Services;
 using SevenZip;
 using File = System.IO.File;
 
-namespace LLPlayer.ViewModels;
+namespace WhisperPlayer.ViewModels;
 
 public class WhisperEngineDownloadDialogVM : Bindable, IDialogAware
 {
@@ -15,7 +15,7 @@ public class WhisperEngineDownloadDialogVM : Bindable, IDialogAware
     public static string EngineURL => "https://github.com/Purfview/whisper-standalone-win/releases/tag/Faster-Whisper-XXL";
     public static string EngineFile => "Faster-Whisper-XXL_r245.4_windows.7z";
     private static string EngineDownloadURL =
-        "https://github.com/umlx5h/LLPlayer/releases/download/v0.0.1/Faster-Whisper-XXL_r245.4_windows.7z";
+        "https://github.com/umlx5h/WhisperPlayer/releases/download/v0.0.1/Faster-Whisper-XXL_r245.4_windows.7z";
     private static string EngineName = "Faster-Whisper-XXL";
     private static string EnginePath = Path.Combine(WhisperConfig.EnginesDirectory, EngineName);
 

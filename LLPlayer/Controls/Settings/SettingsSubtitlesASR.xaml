@@ -1,12 +1,12 @@
-﻿<UserControl x:Class="LLPlayer.Controls.Settings.SettingsSubtitlesASR"
+﻿<UserControl x:Class="WhisperPlayer.Controls.Settings.SettingsSubtitlesASR"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-             xmlns:local="clr-namespace:LLPlayer.Controls.Settings"
+             xmlns:local="clr-namespace:WhisperPlayer.Controls.Settings"
              xmlns:flyleaf="clr-namespace:FlyleafLib;assembly=FlyleafLib"
              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-             xmlns:helpers="clr-namespace:LLPlayer.Extensions"
+             xmlns:helpers="clr-namespace:WhisperPlayer.Extensions"
              xmlns:sys="clr-namespace:System;assembly=System.Runtime"
              xmlns:diagnostics="clr-namespace:System.Diagnostics;assembly=System.Diagnostics.Process"
              mc:Ignorable="d"
@@ -45,7 +45,7 @@
                             FontSize="14"
                             FontWeight="Medium"
                             Width="180">
-                            <Hyperlink Cursor="Help" NavigateUri="https://github.com/umlx5h/LLPlayer/wiki/Whisper-Engine" helpers:HyperlinkHelper.OpenInBrowser="True">
+                            <Hyperlink Cursor="Help" NavigateUri="https://github.com/umlx5h/WhisperPlayer/wiki/Whisper-Engine" helpers:HyperlinkHelper.OpenInBrowser="True">
                                 Whisper Engine
                             </Hyperlink>
                         </TextBlock>
@@ -134,7 +134,7 @@
                             <InlineUIContainer BaselineAlignment="Center" Cursor="Help">
                                 <ToolTipService.ToolTip>
                                     <TextBlock
-                                        Text="Translated into English using Whisper's built-in translation engine. Only English is supported. If you want to translate into another language, you can use the LLPlayer's translation engine."
+                                        Text="Translated into English using Whisper's built-in translation engine. Only English is supported. If you want to translate into another language, you can use the WhisperPlayer's translation engine."
                                         TextWrapping="Wrap"
                                         MaxWidth="400" />
                                 </ToolTipService.ToolTip>

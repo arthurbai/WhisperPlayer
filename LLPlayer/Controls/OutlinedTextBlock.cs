@@ -5,7 +5,7 @@ using System.Windows.Documents;
 using System.Windows.Markup;
 using System.Windows.Media;
 
-namespace LLPlayer.Controls;
+namespace WhisperPlayer.Controls;
 
 [ContentProperty("Text")]
 public class OutlinedTextBlock : FrameworkElement

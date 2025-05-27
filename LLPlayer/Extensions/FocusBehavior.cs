@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Threading;
 
-namespace LLPlayer.Extensions;
+namespace WhisperPlayer.Extensions;
 
 public static class FocusBehavior
 {
