@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfColorFontDialog", "WpfColorFontDialog\WpfColorFontDialog.csproj", "{2418A7B4-C149-753F-FEC4-3B3BF87AFACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhisperPlayer", "LLPlayer\WhisperPlayer.csproj", "{768C315A-B246-406E-0F98-EBA02ACE8B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyleafLib", "FlyleafLib\FlyleafLib.csproj", "{B9FF69ED-055C-4AB5-568D-1BB4C6D9B44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyleafLibTests", "FlyleafLibTests\FlyleafLibTests.csproj", "{6FEFCD33-B8F2-6D8A-EBAD-6EDE944A3906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDL", "Plugins\YoutubeDL\YoutubeDL.csproj", "{9C2A0F1C-F4F9-9371-86AC-7B95CFB59ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2418A7B4-C149-753F-FEC4-3B3BF87AFACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2418A7B4-C149-753F-FEC4-3B3BF87AFACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2418A7B4-C149-753F-FEC4-3B3BF87AFACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2418A7B4-C149-753F-FEC4-3B3BF87AFACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768C315A-B246-406E-0F98-EBA02ACE8B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768C315A-B246-406E-0F98-EBA02ACE8B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768C315A-B246-406E-0F98-EBA02ACE8B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768C315A-B246-406E-0F98-EBA02ACE8B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FF69ED-055C-4AB5-568D-1BB4C6D9B44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FF69ED-055C-4AB5-568D-1BB4C6D9B44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FF69ED-055C-4AB5-568D-1BB4C6D9B44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FF69ED-055C-4AB5-568D-1BB4C6D9B44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEFCD33-B8F2-6D8A-EBAD-6EDE944A3906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEFCD33-B8F2-6D8A-EBAD-6EDE944A3906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEFCD33-B8F2-6D8A-EBAD-6EDE944A3906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEFCD33-B8F2-6D8A-EBAD-6EDE944A3906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2A0F1C-F4F9-9371-86AC-7B95CFB59ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2A0F1C-F4F9-9371-86AC-7B95CFB59ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2A0F1C-F4F9-9371-86AC-7B95CFB59ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2A0F1C-F4F9-9371-86AC-7B95CFB59ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88C76C5-0478-40DE-A041-AE42DAA95B18}
+	EndGlobalSection
+EndGlobal
